@@ -19,7 +19,7 @@
     background-image: url('../img/web/bg.png');
     background-size:cover;
     background-position:center;
-    width: 92%;
+    width: 100%;
     margin: 0 auto;
     overflow: hidden;
 }
@@ -39,7 +39,7 @@
 
 header {
     position: absolute;
-    width: 92%;
+    width: 100%;
     overflow: hidden;
     top: 0;
 }
@@ -87,7 +87,7 @@ header {
 
 section.intro {
     position:absolute;
-    width: 92%;
+    width: 100%;
     height: 100vh;
     top: 0;
     overflow: hidden;

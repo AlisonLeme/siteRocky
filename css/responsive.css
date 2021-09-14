@@ -1,14 +1,7 @@
 @media (max-width: 1850px) {
 
-    .container-center {
-        width: 90%;
-    }
 
     /*hearder*/
-
-    header {
-        width: 90%;
-    }
 
     .logo {
         background-size:170px;
@@ -33,10 +26,6 @@
     }
 
     /*section-title*/
-
-    section.intro {
-        width: 90%;
-    }
 
     .container-intro h1 {
         font-size: 6rem;
